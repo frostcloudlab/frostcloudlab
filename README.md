@@ -1,16 +1,75 @@
-## Hi there 👋
+# Nicholas Frost
+### Cloud & Network Engineer | AWS | Infrastructure | Homelab
 
-<!--
-**frostcloudlab/frostcloudlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud and network engineer building AWS infrastructure, automation projects, and practical home lab systems.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am focused on developing hands-on cloud engineering skills through real infrastructure projects and documentation. My work combines networking experience with modern cloud tools such as AWS, Infrastructure as Code, and containerized services.
+
+This GitHub serves as my engineering lab where I document builds, experiments, and cloud projects.
+
+Portfolio: https://frost.vip
+
+
+## Current Focus
+
+• AWS Cloud Engineering  
+• Infrastructure as Code (Terraform)  
+• Docker and containerized services  
+• Home lab infrastructure and monitoring  
+• Network security and DNS systems  
+
+
+## Featured Projects (In Progress)
+
+### Raspberry Pi DNS Stack
+Self-hosted DNS infrastructure running on Raspberry Pi.
+
+Technologies:
+- AdGuard Home
+- Unbound recursive DNS
+- Tailscale secure access
+
+Features:
+- Network-wide ad blocking
+- Privacy-focused recursive DNS
+- Remote secure management
+
+
+### AWS Infrastructure Labs
+Hands-on cloud infrastructure projects focused on real-world AWS architecture.
+
+Planned work includes:
+- VPC architecture
+- EC2 deployments
+- IAM policy design
+- CloudFront and S3 hosting
+- Monitoring with CloudWatch
+
+
+### Docker Homelab Stack
+Containerized services running in a home lab environment.
+
+Planned services:
+- Monitoring and logging tools
+- Security monitoring (Wazuh)
+- Network tools
+- Infrastructure dashboards
+
+
+## Long Term Goals
+
+• Build production-style AWS infrastructure projects  
+• Document real cloud architecture implementations  
+• Develop strong Infrastructure as Code workflows  
+• Expand home lab security and monitoring systems  
+
+
+## Connect
+
+Portfolio  
+https://frost.vip
+
+LinkedIn  
+https://linkedin.com/in/nicholas-frost
