@@ -80,9 +80,3 @@ Portfolio
 
 LinkedIn  
 [linkedin.com/in/nicholas-frost](https://linkedin.com/in/nicholas-frost)
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frostcloudlab&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=frostcloudlab&theme=dark)
