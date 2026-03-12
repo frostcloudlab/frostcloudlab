@@ -1,6 +1,13 @@
 # Nicholas Frost
 ### Cloud & Network Engineer | AWS | Infrastructure | Homelab
 
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-purple)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Homelab-red)
+![DNS](https://img.shields.io/badge/DNS-AdGuard%20%7C%20Unbound-green)
+![Linux](https://img.shields.io/badge/Linux-Systems-black)
+
 Cloud and network engineer building AWS infrastructure, automation projects, and practical home lab systems.
 
 ## About
