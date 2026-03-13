@@ -79,4 +79,4 @@ Portfolio
 [frost.vip](https://frost.vip)
 
 LinkedIn  
-[linkedin.com/in/nicholas-frost](https://linkedin.com/in/nicholas-frost)
+[linkedin.com/in/nicholas-frost](https://www.linkedin.com/in/nicholas-frost-1056a6b3)
