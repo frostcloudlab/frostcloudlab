@@ -29,6 +29,16 @@ This GitHub serves as my engineering lab where I design, build, and document pro
 
 ---
 
+## Previous Certifications
+
+Earlier certifications that supported my networking and infrastructure background.
+
+- BlueCat Fundamentals Certified Professional (2021)
+- Silver Peak SD-WAN Professional (2019)
+- Silver Peak SD-WAN Expert (2019)
+
+---
+
 ## Featured Projects
 
 ### AWS Static Website (CloudFront + Cloudflare)
