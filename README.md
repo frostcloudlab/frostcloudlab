@@ -18,20 +18,7 @@ My background includes DNS, load balancing, WAN infrastructure, and enterprise t
 
 This GitHub serves as my engineering lab where I design, build, and document production-style environments.
 
-[Portfolio](https://frost.vip)
-
----
-
-## Certifications
-
-### Current
-- AWS Certified Cloud Practitioner (2026)
-- F5 Application Delivery Fundamentals (2024)
-
-### Networking Background
-- BlueCat Fundamentals Certified Professional (2021)
-- Silver Peak SD-WAN Professional (2019)
-- Silver Peak SD-WAN Expert (2019)
+Portfolio: https://frost.vip
 
 ---
 
@@ -80,18 +67,6 @@ https://github.com/frostcloudlab/raspberry-pi-dns-stack
 
 ---
 
-### AWS Infrastructure Labs
-Hands-on cloud infrastructure focused on real-world AWS architecture and best practices.
-
-Core focus areas:
-- VPC design and network segmentation
-- EC2 deployment patterns
-- IAM policy design and security boundaries
-- CloudFront + S3 static hosting architectures
-- Monitoring and observability with CloudWatch
-
----
-
 ### Docker Homelab Stack (Planned)
 Containerized services designed to simulate production infrastructure environments.
 
@@ -103,13 +78,41 @@ Planned services:
 
 ---
 
-## Current Focus
+## Career Direction
+
+### AWS Infrastructure (In Progress)
+
+Actively building hands-on AWS projects focused on real-world architecture patterns.
+
+Current areas of focus:
+- VPC design and network segmentation
+- EC2 deployment patterns
+- Application Load Balancer architectures
+- IAM policy design and security boundaries
+- Monitoring and observability with CloudWatch
+
+---
+
+### Current Focus
 
 • AWS Cloud Engineering  
 • Infrastructure as Code (Terraform)  
 • Containerization and homelab services  
 • Monitoring, observability, and security tooling  
 • Network security and DNS systems  
+
+---
+
+## Certifications
+
+### Current
+- AWS Certified Cloud Practitioner (2026 – 2029)
+- F5 Application Delivery Fundamentals (2024)
+
+### Networking Background
+- BlueCat Fundamentals Certified Professional (2021)
+- Silver Peak SD-WAN Professional (2019)
+- Silver Peak SD-WAN Expert (2019)
 
 ---
 
