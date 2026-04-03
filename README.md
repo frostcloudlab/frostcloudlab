@@ -8,75 +8,109 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Homelab-red)
 ![DNS](https://img.shields.io/badge/DNS-Networking-green)
 
-Cloud and network engineer focused on AWS infrastructure, automation, and practical home lab systems.
+Cloud and network engineer with 14+ years in enterprise networking, now focused on AWS infrastructure, automation, and production-style systems.
 
 ## About
 
-I am focused on developing hands-on cloud engineering skills through real infrastructure projects and documentation. My work combines networking experience with modern cloud tools such as AWS, Infrastructure as Code, and containerized services.
+I build and document real infrastructure projects that bridge traditional networking with modern cloud architecture.
 
-This GitHub serves as my engineering lab where I document builds, experiments, and cloud projects.
+My background includes DNS, load balancing, WAN infrastructure, and enterprise troubleshooting. I am now extending that experience into AWS, Infrastructure as Code, and scalable system design.
+
+This GitHub serves as my engineering lab where I design, build, and document production-style environments.
 
 [Portfolio](https://frost.vip)
 
+---
 
-## Current Focus
+## Certifications
 
-• AWS Cloud Engineering  
-• Infrastructure as Code (Terraform)  
-• Docker and containerized services  
-• Home lab infrastructure and monitoring  
-• Network security and DNS systems  
+- AWS Certified Cloud Practitioner (2026)
+- F5 Application Delivery Fundamentals (2024)
 
+---
 
-## Featured Projects (In Progress)
+## Featured Projects
+
+### AWS Static Website (CloudFront + Cloudflare)
+Production-style static website hosted on AWS with global content delivery and external DNS.
+
+Live Demo:  
+https://frost.vip  
+
+Repository:  
+https://github.com/frostcloudlab/aws-static-website-cloudflare
+
+Technologies:
+- Amazon S3 (private origin)
+- CloudFront (CDN + caching)
+- ACM (TLS certificates)
+- Cloudflare (DNS + email routing)
+
+Key Features:
+- Private S3 bucket with CloudFront origin access control
+- Global content delivery via CDN
+- HTTPS with managed certificates
+- External DNS with Cloudflare integration
+- Cache invalidation and deployment workflow
+
+---
 
 ### Raspberry Pi DNS Stack
-Self-hosted DNS infrastructure running on Raspberry Pi.
+Private recursive DNS infrastructure modeled after enterprise design patterns.
 
 Technologies:
 - AdGuard Home
 - Unbound recursive DNS
 - Tailscale secure access
 
-Features:
-- Network-wide ad blocking
-- Privacy-focused recursive DNS
-- Remote secure management
+Key Features:
+- Network-wide DNS filtering and ad blocking
+- Recursive DNS resolution (no third-party resolvers)
+- Internal DNS namespace (lab.frost.vip)
+- Secure remote access via VPN with subnet routing
 
+Repository:  
+https://github.com/frostcloudlab/raspberry-pi-dns-stack
+
+---
 
 ### AWS Infrastructure Labs
-Hands-on cloud infrastructure projects focused on real-world AWS architecture.
+Hands-on cloud infrastructure focused on real-world AWS architecture and best practices.
 
-Planned work includes:
-- VPC architecture
-- EC2 deployments
-- IAM policy design
-- CloudFront and S3 hosting
-- Monitoring with CloudWatch
+Core focus areas:
+- VPC design and network segmentation
+- EC2 deployment patterns
+- IAM policy design and security boundaries
+- CloudFront + S3 static hosting architectures
+- Monitoring and observability with CloudWatch
 
+---
 
-### Docker Homelab Stack
-Containerized services running in a home lab environment.
+### Docker Homelab Stack (Planned)
+Containerized services designed to simulate production infrastructure environments.
 
 Planned services:
-- Monitoring and logging tools
+- Monitoring and observability stack (Grafana, Prometheus)
 - Security monitoring (Wazuh)
-- Network tools
-- Infrastructure dashboards
+- Internal infrastructure dashboards
+- Self-hosted services and tooling
 
+---
 
-## Long Term Goals
+## Current Focus
 
-• Build production-style AWS infrastructure projects  
-• Document real cloud architecture implementations  
-• Develop strong Infrastructure as Code workflows  
-• Expand home lab security and monitoring systems  
+• AWS Cloud Engineering  
+• Infrastructure as Code (Terraform)  
+• Containerization and homelab services  
+• Monitoring, observability, and security tooling  
+• Network security and DNS systems  
 
+---
 
 ## Connect
 
 Portfolio  
-[frost.vip](https://frost.vip)
+https://frost.vip  
 
 LinkedIn  
-[linkedin.com/in/nicholas-frost](https://www.linkedin.com/in/nicholas-frost-1056a6b3)
+https://www.linkedin.com/in/nicholas-frost-1056a6b3
