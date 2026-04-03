@@ -106,7 +106,7 @@ Current areas of focus:
 ## Certifications
 
 ### Current
-- AWS Certified Cloud Practitioner (2026 – 2029)
+- AWS Certified Cloud Practitioner (2026)
 - F5 Application Delivery Fundamentals (2024)
 
 ### Networking Background
