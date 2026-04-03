@@ -24,15 +24,11 @@ This GitHub serves as my engineering lab where I design, build, and document pro
 
 ## Certifications
 
-- AWS Certified Cloud Practitioner (2026)
+### Current
+- AWS Certified Cloud Practitioner (2026 – 2029)
 - F5 Application Delivery Fundamentals (2024)
 
----
-
-## Previous Certifications
-
-Earlier certifications that supported my networking and infrastructure background.
-
+### Networking Background
 - BlueCat Fundamentals Certified Professional (2021)
 - Silver Peak SD-WAN Professional (2019)
 - Silver Peak SD-WAN Expert (2019)
