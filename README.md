@@ -25,7 +25,7 @@ This GitHub serves as my engineering lab where I design, build, and document pro
 ## Certifications
 
 ### Current
-- AWS Certified Cloud Practitioner (2026 – 2029)
+- AWS Certified Cloud Practitioner (2026)
 - F5 Application Delivery Fundamentals (2024)
 
 ### Networking Background
